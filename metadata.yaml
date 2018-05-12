@@ -1,0 +1,30 @@
+_repo: Avvenimenti-facetiRaccolti-da-un-Anonimo-Siciliano-del-secolo-XVIII_42649
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42649-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pitrè, Giuseppe
+    aliases:
+    - Pitre, Giuseppe
+    - Pitrè, G. (Giuseppe)
+    birthdate: 1841
+    deathdate: 1916
+    gutenberg_agent_id: '39005'
+    url: http://www.gutenberg.org/2009/agents/39005
+description: ''
+gutenberg_bookshelf: IT Folklore
+gutenberg_issued: '2013-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42649'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Sicily (Italy) -- Religious life and customs'
+title: 'Avvenimenti faceti: Raccolti da un Anonimo Siciliano del secolo XVIII'
+url: http://www.gutenberg.org/ebooks/42649
